@@ -21,7 +21,7 @@
 	},
 	"main": "github-markdown.css",
 	"scripts": {
-		"make": "github-markdown-css > github-markdown.css"
+		"make": "github-markdown-css > examples/github-markdown.css"
 	},
 	"files": [
 		"github-markdown.css",
